@@ -1,0 +1,42 @@
+﻿@model IEnumerable<MvcOnion.Presentation.ViewModels.AuthorVms.AuthorListVm>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.AuthorFirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AuthorLastName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.AuthorFirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AuthorLastName)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {  id=item.AuthorId  }) |
+                @Html.ActionLink("Details", "Details", new {  id=item.AuthorId  }) |
+                @Html.ActionLink("Delete", "Delete", new { id=item.AuthorId }) |
+                @Html.ActionLink("BookList", "BookList", "Book", new { id=item.AuthorId }) 
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

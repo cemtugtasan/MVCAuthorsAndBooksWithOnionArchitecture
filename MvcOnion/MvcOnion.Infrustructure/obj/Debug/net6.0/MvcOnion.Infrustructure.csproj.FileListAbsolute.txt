@@ -1,0 +1,17 @@
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Infrustructure\bin\Debug\net6.0\MvcOnion.Infrustructure.deps.json
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Infrustructure\bin\Debug\net6.0\MvcOnion.Infrustructure.runtimeconfig.json
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Infrustructure\bin\Debug\net6.0\MvcOnion.Infrustructure.dll
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Infrustructure\bin\Debug\net6.0\MvcOnion.Infrustructure.pdb
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Infrustructure\bin\Debug\net6.0\MvcOnion.Domain.dll
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Infrustructure\bin\Debug\net6.0\MvcOnion.Domain.pdb
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Infrustructure\obj\Debug\net6.0\MvcOnion.Infrustructure.csproj.AssemblyReference.cache
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Infrustructure\obj\Debug\net6.0\MvcOnion.Infrustructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Infrustructure\obj\Debug\net6.0\MvcOnion.Infrustructure.AssemblyInfoInputs.cache
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Infrustructure\obj\Debug\net6.0\MvcOnion.Infrustructure.AssemblyInfo.cs
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Infrustructure\obj\Debug\net6.0\MvcOnion.Infrustructure.csproj.CoreCompileInputs.cache
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Infrustructure\obj\Debug\net6.0\MvcOnion.Infrustructure.csproj.CopyComplete
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Infrustructure\obj\Debug\net6.0\MvcOnion.Infrustructure.dll
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Infrustructure\obj\Debug\net6.0\refint\MvcOnion.Infrustructure.dll
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Infrustructure\obj\Debug\net6.0\MvcOnion.Infrustructure.pdb
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Infrustructure\obj\Debug\net6.0\MvcOnion.Infrustructure.genruntimeconfig.cache
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Infrustructure\obj\Debug\net6.0\ref\MvcOnion.Infrustructure.dll

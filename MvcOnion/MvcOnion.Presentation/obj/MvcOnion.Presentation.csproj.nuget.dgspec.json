@@ -1,0 +1,286 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\yazılım çalışmaları\\visual çalışamaları\\karışık random çalışmalar\\.Net6CoreMVC\\MVC ve Onion Mimari\\MvcOnion2\\MvcOnion\\MvcOnion.Presentation\\MvcOnion.Presentation.csproj": {}
+  },
+  "projects": {
+    "D:\\yazılım çalışmaları\\visual çalışamaları\\karışık random çalışmalar\\.Net6CoreMVC\\MVC ve Onion Mimari\\MvcOnion2\\MvcOnion\\MvcOnion.Application\\MvcOnion.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\yazılım çalışmaları\\visual çalışamaları\\karışık random çalışmalar\\.Net6CoreMVC\\MVC ve Onion Mimari\\MvcOnion2\\MvcOnion\\MvcOnion.Application\\MvcOnion.Application.csproj",
+        "projectName": "MvcOnion.Application",
+        "projectPath": "D:\\yazılım çalışmaları\\visual çalışamaları\\karışık random çalışmalar\\.Net6CoreMVC\\MVC ve Onion Mimari\\MvcOnion2\\MvcOnion\\MvcOnion.Application\\MvcOnion.Application.csproj",
+        "packagesPath": "C:\\Users\\cemtu\\.nuget\\packages\\",
+        "outputPath": "D:\\yazılım çalışmaları\\visual çalışamaları\\karışık random çalışmalar\\.Net6CoreMVC\\MVC ve Onion Mimari\\MvcOnion2\\MvcOnion\\MvcOnion.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cemtu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\yazılım çalışmaları\\visual çalışamaları\\karışık random çalışmalar\\.Net6CoreMVC\\MVC ve Onion Mimari\\MvcOnion2\\MvcOnion\\MvcOnion.Domain\\MvcOnion.Domain.csproj": {
+                "projectPath": "D:\\yazılım çalışmaları\\visual çalışamaları\\karışık random çalışmalar\\.Net6CoreMVC\\MVC ve Onion Mimari\\MvcOnion2\\MvcOnion\\MvcOnion.Domain\\MvcOnion.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\yazılım çalışmaları\\visual çalışamaları\\karışık random çalışmalar\\.Net6CoreMVC\\MVC ve Onion Mimari\\MvcOnion2\\MvcOnion\\MvcOnion.Domain\\MvcOnion.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\yazılım çalışmaları\\visual çalışamaları\\karışık random çalışmalar\\.Net6CoreMVC\\MVC ve Onion Mimari\\MvcOnion2\\MvcOnion\\MvcOnion.Domain\\MvcOnion.Domain.csproj",
+        "projectName": "MvcOnion.Domain",
+        "projectPath": "D:\\yazılım çalışmaları\\visual çalışamaları\\karışık random çalışmalar\\.Net6CoreMVC\\MVC ve Onion Mimari\\MvcOnion2\\MvcOnion\\MvcOnion.Domain\\MvcOnion.Domain.csproj",
+        "packagesPath": "C:\\Users\\cemtu\\.nuget\\packages\\",
+        "outputPath": "D:\\yazılım çalışmaları\\visual çalışamaları\\karışık random çalışmalar\\.Net6CoreMVC\\MVC ve Onion Mimari\\MvcOnion2\\MvcOnion\\MvcOnion.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cemtu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\yazılım çalışmaları\\visual çalışamaları\\karışık random çalışmalar\\.Net6CoreMVC\\MVC ve Onion Mimari\\MvcOnion2\\MvcOnion\\MvcOnion.Infrustructure\\MvcOnion.Infrustructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\yazılım çalışmaları\\visual çalışamaları\\karışık random çalışmalar\\.Net6CoreMVC\\MVC ve Onion Mimari\\MvcOnion2\\MvcOnion\\MvcOnion.Infrustructure\\MvcOnion.Infrustructure.csproj",
+        "projectName": "MvcOnion.Infrustructure",
+        "projectPath": "D:\\yazılım çalışmaları\\visual çalışamaları\\karışık random çalışmalar\\.Net6CoreMVC\\MVC ve Onion Mimari\\MvcOnion2\\MvcOnion\\MvcOnion.Infrustructure\\MvcOnion.Infrustructure.csproj",
+        "packagesPath": "C:\\Users\\cemtu\\.nuget\\packages\\",
+        "outputPath": "D:\\yazılım çalışmaları\\visual çalışamaları\\karışık random çalışmalar\\.Net6CoreMVC\\MVC ve Onion Mimari\\MvcOnion2\\MvcOnion\\MvcOnion.Infrustructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cemtu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\yazılım çalışmaları\\visual çalışamaları\\karışık random çalışmalar\\.Net6CoreMVC\\MVC ve Onion Mimari\\MvcOnion2\\MvcOnion\\MvcOnion.Domain\\MvcOnion.Domain.csproj": {
+                "projectPath": "D:\\yazılım çalışmaları\\visual çalışamaları\\karışık random çalışmalar\\.Net6CoreMVC\\MVC ve Onion Mimari\\MvcOnion2\\MvcOnion\\MvcOnion.Domain\\MvcOnion.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\yazılım çalışmaları\\visual çalışamaları\\karışık random çalışmalar\\.Net6CoreMVC\\MVC ve Onion Mimari\\MvcOnion2\\MvcOnion\\MvcOnion.Presentation\\MvcOnion.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\yazılım çalışmaları\\visual çalışamaları\\karışık random çalışmalar\\.Net6CoreMVC\\MVC ve Onion Mimari\\MvcOnion2\\MvcOnion\\MvcOnion.Presentation\\MvcOnion.Presentation.csproj",
+        "projectName": "MvcOnion.Presentation",
+        "projectPath": "D:\\yazılım çalışmaları\\visual çalışamaları\\karışık random çalışmalar\\.Net6CoreMVC\\MVC ve Onion Mimari\\MvcOnion2\\MvcOnion\\MvcOnion.Presentation\\MvcOnion.Presentation.csproj",
+        "packagesPath": "C:\\Users\\cemtu\\.nuget\\packages\\",
+        "outputPath": "D:\\yazılım çalışmaları\\visual çalışamaları\\karışık random çalışmalar\\.Net6CoreMVC\\MVC ve Onion Mimari\\MvcOnion2\\MvcOnion\\MvcOnion.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cemtu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\yazılım çalışmaları\\visual çalışamaları\\karışık random çalışmalar\\.Net6CoreMVC\\MVC ve Onion Mimari\\MvcOnion2\\MvcOnion\\MvcOnion.Application\\MvcOnion.Application.csproj": {
+                "projectPath": "D:\\yazılım çalışmaları\\visual çalışamaları\\karışık random çalışmalar\\.Net6CoreMVC\\MVC ve Onion Mimari\\MvcOnion2\\MvcOnion\\MvcOnion.Application\\MvcOnion.Application.csproj"
+              },
+              "D:\\yazılım çalışmaları\\visual çalışamaları\\karışık random çalışmalar\\.Net6CoreMVC\\MVC ve Onion Mimari\\MvcOnion2\\MvcOnion\\MvcOnion.Infrustructure\\MvcOnion.Infrustructure.csproj": {
+                "projectPath": "D:\\yazılım çalışmaları\\visual çalışamaları\\karışık random çalışmalar\\.Net6CoreMVC\\MVC ve Onion Mimari\\MvcOnion2\\MvcOnion\\MvcOnion.Infrustructure\\MvcOnion.Infrustructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

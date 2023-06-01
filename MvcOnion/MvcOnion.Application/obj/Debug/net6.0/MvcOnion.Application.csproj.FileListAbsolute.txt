@@ -1,0 +1,15 @@
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Application\bin\Debug\net6.0\MvcOnion.Application.deps.json
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Application\bin\Debug\net6.0\MvcOnion.Application.dll
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Application\bin\Debug\net6.0\MvcOnion.Application.pdb
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Application\bin\Debug\net6.0\MvcOnion.Domain.dll
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Application\bin\Debug\net6.0\MvcOnion.Domain.pdb
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Application\obj\Debug\net6.0\MvcOnion.Application.csproj.AssemblyReference.cache
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Application\obj\Debug\net6.0\MvcOnion.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Application\obj\Debug\net6.0\MvcOnion.Application.AssemblyInfoInputs.cache
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Application\obj\Debug\net6.0\MvcOnion.Application.AssemblyInfo.cs
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Application\obj\Debug\net6.0\MvcOnion.Application.csproj.CoreCompileInputs.cache
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Application\obj\Debug\net6.0\MvcOnion.Application.csproj.CopyComplete
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Application\obj\Debug\net6.0\MvcOnion.Application.dll
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Application\obj\Debug\net6.0\refint\MvcOnion.Application.dll
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Application\obj\Debug\net6.0\MvcOnion.Application.pdb
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Application\obj\Debug\net6.0\ref\MvcOnion.Application.dll

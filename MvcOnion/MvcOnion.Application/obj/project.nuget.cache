@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zyNuoP7X5JCmMxewDdhK3LBt+HgGui+rVbMwP9CYq/4q+eBRcPRgLTuY52GbNW/0ORCLBsApvC+IAroUVW7pAA==",
+  "success": true,
+  "projectFilePath": "D:\\yazılım çalışmaları\\visual çalışamaları\\karışık random çalışmalar\\.Net6CoreMVC\\MVC ve Onion Mimari\\MvcOnion2\\MvcOnion\\MvcOnion.Application\\MvcOnion.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cemtu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

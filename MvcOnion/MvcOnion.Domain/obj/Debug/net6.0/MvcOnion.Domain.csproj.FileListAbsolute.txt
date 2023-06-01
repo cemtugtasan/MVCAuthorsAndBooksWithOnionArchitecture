@@ -1,0 +1,12 @@
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Domain\bin\Debug\net6.0\MvcOnion.Domain.deps.json
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Domain\bin\Debug\net6.0\MvcOnion.Domain.dll
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Domain\bin\Debug\net6.0\MvcOnion.Domain.pdb
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Domain\obj\Debug\net6.0\MvcOnion.Domain.csproj.AssemblyReference.cache
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Domain\obj\Debug\net6.0\MvcOnion.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Domain\obj\Debug\net6.0\MvcOnion.Domain.AssemblyInfoInputs.cache
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Domain\obj\Debug\net6.0\MvcOnion.Domain.AssemblyInfo.cs
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Domain\obj\Debug\net6.0\MvcOnion.Domain.csproj.CoreCompileInputs.cache
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Domain\obj\Debug\net6.0\MvcOnion.Domain.dll
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Domain\obj\Debug\net6.0\refint\MvcOnion.Domain.dll
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Domain\obj\Debug\net6.0\MvcOnion.Domain.pdb
+C:\Users\neset.atay\Desktop\Example\MvcEtutOnion\MvcOnion\MvcOnion.Domain\obj\Debug\net6.0\ref\MvcOnion.Domain.dll
